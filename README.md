@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Customer Shopping Behavior Analysis
 
 ## 📌 Project Overview
@@ -162,3 +163,5 @@ LinkedIn: https://www.linkedin.com/in/aaditya-pandhare-0b26b32a7/
 GitHub: https://github.com/Aaditya0615
 
 ---
+
+
